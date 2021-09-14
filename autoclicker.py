@@ -7,9 +7,9 @@ from pynput.keyboard import Listener, KeyCode
 delay = 0.005
 # Mouse key
 button = Button.left
-# Start autoclicker key
+# Start/stop autoclicker key
 start_stop_key = KeyCode(char='n')
-# Stop autoclicker key
+# Kill autoclicker thread key
 exit_key = KeyCode(char='m')
  
 # Make click mouse button with delay time repeatedly
