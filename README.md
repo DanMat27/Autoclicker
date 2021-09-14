@@ -1,6 +1,6 @@
 # Autoclicker
 A python autoclicker
 
-Press start key to begin autoclicks.
-Press stop key to stop autoclicking.
+Press first key to start/stop autoclicking.
+Press second key to kill the autoclicking thread.
 Change delay time between clicks easily.
